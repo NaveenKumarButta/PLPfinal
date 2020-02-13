@@ -1,0 +1,35 @@
+
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHÙRBLOCKERZVULNERABILITY
+Xsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHôRMINORZVULNERABILITY
+‹squid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÊöƒşÿÿÿÿHıRMINORZ
+CODE_SMELL
+squid:S2068)"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHŞRBLOCKERZVULNERABILITY
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®óñüÿÿÿÿHƒRMINORZ
+CODE_SMELL
+squid:S2068U"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH¾RBLOCKERZVULNERABILITY
+‹squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷­­ÍøÿÿÿÿH‰RMINORZ
+CODE_SMELL
+‹squid:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 6 times.(¹µÖÁüÿÿÿÿHÆRCRITICALZ
+CODE_SMELL
+_squid:S4925s"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHâRMAJORZ
+CODE_SMELL
+`squid:S4925Š"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH×RMAJORZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHÊRBLOCKERZVULNERABILITY
+squid:S2068E"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHÒRBLOCKERZVULNERABILITY
+Ôsquid:S1192"—Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/stores_management_db?user=root&password=tiger&useSSL=false" 6 times.(»ÉáŸÿÿÿÿÿ8„éÛêƒ.H RCRITICALZ
+CODE_SMELL
+squid:S2068l"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHÚRBLOCKERZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHİRMAJORZ
+CODE_SMELL
+e
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÿş«ÄHúRMAJORZ
+CODE_SMELL
+fsquid:S4925^"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ï¤øŞƒ.HÓRMAJORZ
+CODE_SMELL
+_squid:S4925."-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+_squid:S4925I"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+Œsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖÍ„¸ıÿÿÿÿHõRMINORZ
+CODE_SMELL
